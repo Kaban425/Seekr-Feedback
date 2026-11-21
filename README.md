@@ -2,11 +2,11 @@
 
 **Твои файлы. Твой стиль.** Файловый менеджер с открытым исходным кодом для Windows x64: быстрый поиск, размеры папок, вкладки, две панели и свои оформления.
 
-**[Скачать Seekr 1.0.6](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.6/Seekr-1.0.6-Setup.exe)** · [Все файлы выпуска](https://github.com/Kaban425/Seekr-Feedback/releases/tag/v1.0.6) · [Исходный код](https://github.com/Kaban425/Seekr) · [Ошибки и предложения](https://github.com/Kaban425/Seekr-Feedback/issues/new/choose)
+**[Скачать Seekr 1.0.7](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.7/Seekr-1.0.7-Setup.exe)** · [Все файлы выпуска](https://github.com/Kaban425/Seekr-Feedback/releases/tag/v1.0.7) · [Исходный код](https://github.com/Kaban425/Seekr) · [Ошибки и предложения](https://github.com/Kaban425/Seekr-Feedback/issues/new/choose)
 
-Версия **1.0.6, сборка 7**. Ранний открытый выпуск; ограничения перечислены ниже.
+**Куда делось место на диске?** В Seekr 1.0.7 карта показывает заполненность дисков. Выберите диск, затем крупную папку, чтобы увидеть, что занимает место внутри. Кнопка «Загрузки» на панели команд открывает фильтры «Изменены сегодня», «Изменены на этой неделе» и «Только PDF».
 
-![Seekr в тёмной теме](docs/images/explorer.png)
+![Карта места Seekr на демонстрационной папке](docs/images/space-map.png)
 
 ## Установка
 
@@ -18,10 +18,10 @@
 
 | Файл | Для чего |
 |---|---|
-| [Setup.exe](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.6/Seekr-1.0.6-Setup.exe) | Установка и обновление с выбором папки и ярлыка. |
-| [MSI](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.6/Seekr-1.0.6-win-x64.msi) | Альтернатива Setup.exe для той же программы. |
-| [ZIP](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.6/Seekr-1.0.6-win-x64.zip) | Распакуйте весь архив и запустите Seekr.App.exe. |
-| [Манифест SHA-256](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.6/release-manifest.json) | Версия, номер сборки и контрольные суммы файлов. |
+| [Setup.exe](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.7/Seekr-1.0.7-Setup.exe) | Установка и обновление с выбором папки и ярлыка. |
+| [MSI](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.7/Seekr-1.0.7-win-x64.msi) | Альтернатива Setup.exe для той же программы. |
+| [ZIP](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.7/Seekr-1.0.7-win-x64.zip) | Распакуйте весь архив и запустите Seekr.App.exe. |
+| [Манифест SHA-256](https://github.com/Kaban425/Seekr-Feedback/releases/download/v1.0.7/release-manifest.json) | Версия, номер сборки и контрольные суммы файлов. |
 
 Достаточно одного установщика. Архивы **Source code** внизу страницы выпуска содержат файлы репозитория, а не готовую программу.
 
